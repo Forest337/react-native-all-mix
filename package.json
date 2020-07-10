@@ -1,0 +1,14 @@
+{
+  "name": "react-native-all-mixed",
+  "version": "1.0.0",
+  "description": "react-native-all-mixed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-all-mixed"
+  ],
+  "author": "andyli",
+  "license": "ISC"
+}
